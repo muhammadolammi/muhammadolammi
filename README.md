@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 💬 Talk to me about Any openings for GO developer(junior)
 - 📫 How to reach me: muhammadolammi@gmail.com
 
+  [Link](https://twitter.com/MAkewukanwo)
+
 
 I've been enjoying web development for the first time ever since I built my first Go project, "blogfuse". The consolidated toolchain makes me want to leave the JavaScript ecosystem behind for good.
 
