@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently preparing for cka exam
 - 👯 I’m looking to collaborate on any GOLANG project(Preferable webservers)
 - 🤔 I’m looking for help with an open-source project in GO.
-- 💬 Talk to me about Any openings for GO developer(junior)
+- 💬 Talk to me about Any openings for GO developer
 - 📫 How to reach me: muhammadolammi@gmail.com
 
   [Twitter](https://twitter.com/MAkewukanwo)
