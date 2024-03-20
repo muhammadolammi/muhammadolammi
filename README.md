@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [https://naijalocationserver.com/](https://github.com/muhammadolammi/naijalocationserver) Moving the server to eks
-- 🌱 I’m currently preparing for cka exam
+- 🔭 I’m currently working on a Twitter(X) clone (STACK: GO(backend), flutter(UI), Kubernetes(orchestration )
 - 👯 I’m looking to collaborate on any GOLANG project(Preferable webservers)
-- 🤔 I’m looking for help with an open-source project in GO.
+- 🤔 I’m looking to work voluntarily on any open-source project in GO.
 - 💬 Talk to me about Any openings for GO developer
 - 📫 How to reach me: muhammadolammi@gmail.com
 
