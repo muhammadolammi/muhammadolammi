@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a Twitter(X) clone (STACK: GO(backend), flutter(UI), Kubernetes(orchestration )
+- 🔭 I’m currently working on muhammaddev.com (my portfolio website) [Github Repo](https://github.com/muhammadolammi/muhammaddev)
 - 👯 I’m looking to collaborate on any GOLANG project(Preferable webservers)
 - 🤔 I’m looking to work voluntarily on any open-source project in GO.
 - 💬 Talk to me about Any openings for GO developer
