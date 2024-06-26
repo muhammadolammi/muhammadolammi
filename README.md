@@ -22,6 +22,5 @@ Here are some ideas to get you started:
   [Twitter](https://twitter.com/MAkewukanwo)
 
 
-I've been enjoying web development for the first time since I built my first Go project, "blog fuse". The consolidated toolchain makes me want to leave the JavaScript ecosystem behind for good.
-I'm currently on the lookout for a role in backend web development, ideally writing Go. I'd love to work at a startup on a tight-knit team where I can quickly make an impact. If you're hiring, let's chat!
+Software Engineer
 
