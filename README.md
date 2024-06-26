@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Building static site generato
-- 👯 I’m looking to collaborate on any GOLANG project(Preferable webservers)
-- 🤔 I’m looking to work voluntarily on any open-source project in GO.
+- 🔭 Learning PUB/SUB ARCHITECTURE / RabbitMQ
+- 🤔If you got here as a recruiter, give me the job man :)
 - 💬 Talk to me about Any openings for GO developer
 - 📫 How to reach me: muhammadolammi@gmail.com
 
