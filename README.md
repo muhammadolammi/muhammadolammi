@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Coding/Bug Hunting.....
-- 💬 Talk to me about Any openings for GO developer
+- 🔭 Coding/Data
+- 💬 Talk to me about Any openings for Data Sciencist
 - 📫 How to reach me: muhammadolammi@gmail.com
 
   [Twitter](https://twitter.com/MAkewukanwo)
