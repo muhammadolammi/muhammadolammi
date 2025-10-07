@@ -1,11 +1,11 @@
 ### Hi there 👋
+I’m Muhammad Olamide — Backend & DevOps Engineer
 
 <!--
 **muhammadolammi/muhammadolammi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Coding/Data
-- 💬 Talk to me about Any openings and internship 
+- 🔭 I’m currently working on RentRadar (An app aimed at solving Nigeria's renting crisis)
+- 💬 Open to backend or SRE roles.
 - 📫 How to reach me: muhammadolammi@gmail.com
 
   [Twitter](https://twitter.com/MAkewukanwo)
-
-
-Software Engineer
 
