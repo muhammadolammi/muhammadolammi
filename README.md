@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 Coding/Data
-- 💬 Talk to me about Any openings for Data Sciencist
+- 💬 Talk to me about Any openings and internship 
 - 📫 How to reach me: muhammadolammi@gmail.com
 
   [Twitter](https://twitter.com/MAkewukanwo)
