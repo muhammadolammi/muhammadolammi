@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m Muhammad Olamide — Backend & DevOps Engineer
+I’m Muhammad Olamide — Backend  Engineer
 
 <!--
 **muhammadolammi/muhammadolammi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
